@@ -37,3 +37,6 @@ h1
 .myButton:active {
     background: #144E75; 
 }
+.link-container {
+    align-items: center;
+}
